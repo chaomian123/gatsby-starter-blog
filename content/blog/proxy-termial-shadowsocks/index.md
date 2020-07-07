@@ -19,7 +19,7 @@ description: ……
 ```
 执行代理和解除代理的方式
 ```shell script
-proxy
-unproxy
+    proxy
+    unproxy
 ```
 
